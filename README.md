@@ -1,0 +1,1 @@
+# TinCoder_tedCheckPermission
